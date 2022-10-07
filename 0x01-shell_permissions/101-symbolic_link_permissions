@@ -1,2 +1,2 @@
 #!/bin/bash
-ikdfi
+chown -h vincent:staff _hello
